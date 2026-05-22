@@ -13,9 +13,6 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,dart,flutter,js,html,css,php,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" />
 </a>
-
-**+ MikroTik · TCP/IP Networking · IT Support**
-
 ---
 
 ## 📌 Featured Projects
