@@ -2,7 +2,7 @@
 
 > CEO by day · Sysadmin by night · Developer when the business needs it
 
-I run **[CV Rejeki Amerta Jaya](https://rejekiamerta.com)** — a small business based in Banyumas. My IT background means I build the tools my own business actually uses: point of sales app, receipt printers, attendance utilities, and whatever else saves us time.
+I run **[CV Rejeki Amerta Jaya](https://rejekiamerta.com)** — a small business based in Banyumas. My IT background means I build the tools my own business actually uses: receipt printers, attendance utilities, and whatever else saves us time.
 
 I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an internship at **PT. Merkha Teknologi Indonesia**, and haven't stopped building since.
 
@@ -49,15 +49,6 @@ Projects are pinned above — here's the quick rundown:
 | [merkha_restapi](https://github.com/nikokevin29/merkha_restapi) | REST API backend for Merkha — OAuth2, orders, feed | Laravel · MySQL |
 | [couvee-rest-server](https://github.com/nikokevin29/couvee-rest-server) | Pet shop management REST API | Laravel · MySQL |
 | [kohipetshopu](https://github.com/nikokevin29/kohipetshopu) | Android client for Couvee pet shop system | Java · Retrofit |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikokevin29&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikokevin29&layout=compact&theme=default&hide_border=true&langs_count=8" height="160" />
-</p>
 
 ---
 
