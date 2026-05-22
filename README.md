@@ -10,30 +10,11 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
 
 ## 🛠 Tech Stack
 
-**Mobile & Frontend**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,js,html,css,php,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" />
+</a>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Desktop**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Infrastructure & Networking**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Networking-0078D4?style=flat&logo=cisco&logoColor=white)
-![IT Support](https://img.shields.io/badge/IT_Support-6C757D?style=flat&logo=helpdesk&logoColor=white)
+**+ MikroTik · TCP/IP Networking · IT Support**
 
 ---
 
