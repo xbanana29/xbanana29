@@ -52,8 +52,3 @@ Projects are pinned above — here's the quick rundown:
 
 ---
 
-## 📫 Contact
-
-- 🌐 [rejekiamerta.com](https://rejekiamerta.com)
-- 📧 nikokevin29@gmail.com
-- 📍 Banyumas, Central Java, Indonesia
