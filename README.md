@@ -11,8 +11,15 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
 ## 🛠 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,js,html,css,php,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" />
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" />
 </a>
+
+**🚫 Avoid when I can:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js" width="48" /> 🚫 ~~JavaScript~~ &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" width="48" /> 🚫 ~~PHP~~
+</a>
+
 ---
 
 ## 📌 Featured Projects
