@@ -11,7 +11,7 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,ts,rust,py,androidstudio,linux,arch,mysql,svelte" height="48" />
   <img src="assets/no-js.png" height="48" alt="No JavaScript" />
   <img src="assets/no-php.png" height="48" alt="No PHP" />
 </p>
