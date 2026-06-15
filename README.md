@@ -2,7 +2,7 @@
 
 > CEO by day · Sysadmin by night · Developer when the business needs it
 
-I run **[CV Rejeki Amerta Jaya](https://rejekiamerta.com)** — a small business based in Banyumas. My IT background means I build the tools my own business actually uses: receipt printers, attendance utilities, and whatever else saves us time.
+I run **[CV Rejeki Amerta Jaya](https://rejekiamerta.com)** — a small business based in Banyumas. My IT background means I build the tools my own business actually uses and whatever else saves us time.
 
 I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an internship at **PT. Merkha Teknologi Indonesia**, and haven't stopped building since.
 
