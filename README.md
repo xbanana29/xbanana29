@@ -14,11 +14,11 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
   <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,laravel,rust,py,androidstudio,linux,arch,mysql,svelte" />
 </a>
 
-**🚫 Avoid when I can:**
+**Avoid when I can:**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js" width="48" /> 🚫 ~~JavaScript~~ &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" width="48" /> 🚫 ~~PHP~~
-</a>
+<img src="assets/no-js.png" width="48" alt="No JavaScript" />
+&nbsp;&nbsp;
+<img src="assets/no-php.png" width="48" alt="No PHP" />
 
 ---
 
