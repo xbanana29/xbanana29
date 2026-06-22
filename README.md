@@ -11,7 +11,7 @@ I studied Information Technology at **Universitas Atma Jaya Yogyakarta**, did an
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,ts,rust,py,androidstudio,linux,arch,mysql,svelte" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,html,css,ts,rust,py,androidstudio,linux,arch,mysql" height="48" />
   <img src="assets/no-js.png" height="48" alt="No JavaScript" />
   <img src="assets/no-php.png" height="48" alt="No PHP" />
 </p>
@@ -24,7 +24,7 @@ Projects are pinned above — here's the quick rundown:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [cashier-printer](https://github.com/nikokevin29/cashier-printer) | Receipt printer app for small shops — offline, no server | Tauri 2 · Svelte · Rust |
+| [cashier-printer](https://github.com/nikokevin29/cashier-printer) | 100% Rust receipt printer app for small shops — offline, no server | Tauri 2 · Dioxus · Rust |
 | [zkteco-utility](https://github.com/nikokevin29/zkteco-utility) | Pull ZKTeco attendance logs to Excel via TCP, no ADMS | Python |
 | [merkha_app](https://github.com/nikokevin29/merkha_app) | Social commerce mobile app — internship & thesis project | Flutter · Firebase · BLoC |
 | [kohipetshopu](https://github.com/nikokevin29/kohipetshopu) | Android client for Couvee pet shop system | Java · Retrofit |
