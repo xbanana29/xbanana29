@@ -24,10 +24,10 @@ Projects are pinned above — here's the quick rundown:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [cashier-printer](https://github.com/nikokevin29/cashier-printer) | 100% Rust receipt printer app for small shops — offline, no server | Tauri 2 · Dioxus · Rust |
-| [zkteco-utility](https://github.com/nikokevin29/zkteco-utility) | Pull ZKTeco attendance logs to Excel via TCP, no ADMS | Python |
-| [merkha_app](https://github.com/nikokevin29/merkha_app) | Social commerce mobile app — internship & thesis project | Flutter · Firebase · BLoC |
-| [kohipetshopu](https://github.com/nikokevin29/kohipetshopu) | Android client for Couvee pet shop system | Java · Retrofit |
+| [cashier-printer](https://github.com/xbanana29/cashier-printer) | 100% Rust receipt printer app for small shops — offline, no server | Tauri 2 · Dioxus · Rust |
+| [zkteco-utility](https://github.com/xbanana29/zkteco-utility) | Pull ZKTeco attendance logs to Excel via TCP, no ADMS | Python |
+| [merkha_app](https://github.com/xbanana29/merkha_app) | Social commerce mobile app — internship & thesis project | Flutter · Firebase · BLoC |
+| [kohipetshopu](https://github.com/xbanana29/kohipetshopu) | Android client for Couvee pet shop system | Java · Retrofit |
 
 ---
 
